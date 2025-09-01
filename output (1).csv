@@ -1,0 +1,44 @@
+Company	Ticker	Market_Cap_Trillion_USD	Stock_Price_USD	Revenue_2024_Billion_USD	AI_Revenue_Percent	Employees	Headquarters	Sector	AI_Focus_Area	R&D_Spending_Billion_USD	Growth_Rate_2024_Percent	P_E_Ratio	Dividend_Yield_Percent	52_Week_High_USD	52_Week_Low_USD	Beta	ESG_Score	AI_Patents_Count	Cloud_Revenue_Billion_USD	GPU_Market_Share_Percent	MarketCap_Bn	PE_Valid	Vol_Spread_Pct	RD_Intensity_Pct	AI_Revenue_Bn
+NVIDIA	NVDA	4.44	1150	242.5	85	29600	CA USA	Semiconductors	AI Chips	8.7	122.4	75.2	0.03	1200	108	1.65	B	3847	14.5	88	4440	75	1011	4	206
+Microsoft	MSFT	3.18	429	245.1	35	228000	WA USA	Software	Cloud AI	29.5	16.5	35.8	0.68	468	362	0.89	A	2156	125	0	3180	36	29	12	86
+Apple	AAPL	3.15	201	383.3	8	164000	CA USA	Elecontrics	AI Integration	31.9	2.1	31.2	0.44	237	164	1.24	A	1523	7.2	0	3150	31	45	8	31
+Alphabet	GOOGL	2.08	168	307.4	45	182000	CA USA	Services	AI Search	39.5	13.8	23.4	0	191	129	1.05	B	4521	33.1	0	2080	23	48	13	138
+Amazon	AMZN	1.89	181	574.8	15	1541000	WA USA	E-commerce	Cloud AI	85.9	11.2	45.6	0	201	118	1.33	C	1897	96.1	0	1890	46	70	15	86
+Meta	META	1.38	542	134.9	25	77805	CA USA	Social Media	AI Content	38.5	37.6	25.8	0.37	542	274	1.18	C	2834	0	0	1380	26	98	29	34
+Tesla	TSLA	0.82	256	96.8	30	140473	TX USA	Automotive	Autonomous AI	3.1	-15.2	89.4	0	414	142	2.09	B	1245	0	0	820	89	192	3	29
+Broadcom	AVGO	0.72	166	51	45	26000	CA USA	Semiconductors	AI Infrastructure	5.8	47.3	31.2	1.88	185	95	1.45	B	892	0	0	720	31	95	11	23
+Oracle	ORCL	0.52	187	53.8	40	164000	TX USA	Software	Cloud AI	7.2	6.8	45.2	1.06	127	99	1.12	B	756	14.1	0	520	45	28	13	22
+Taiwan Semiconductor	TSM	0.87	168	75.9	60	76476	Hsinchu Taiwan	Semiconductors	AI Chip Manufacturing	4.8	31.2	21.4	1.79	212	84	1.02	A	1234	0	0	870	21	152	6	46
+Salesforce	CRM	0.28	287	34.9	35	79390	CA USA	Software	CRM AI	2.4	8.9	58.7	0	344	212	1.34	A	567	34.9	0	280	59	62	7	12
+AMD	AMD	0.24	149	25.4	55	31000	CA USA	Semiconductors	AI Processors	6.8	9	198.4	0	227	93	1.97	B	1089	0	7	240	198	144	27	14
+Snowflake	SNOW	0.05	159	3	70	7249	MT USA	Analytics	Data AI	1.2	32.8	-65.2	0	237	107	1.89	B	234	3	0	50		121	40	2
+Palantir	PLTR	0.12	53	2.2	85	3838	CO USA	Analytics	Government AI	0.6	27.2	312.5	0	45	15	2.45	C	178	0	0	120	313	200	27	2
+CrowdStrike	CRWD	0.08	346	3.1	40	8123	TX USA	Cybersecurity	Security AI	0.7	35.2	91.7	0	398	200	1.43	B	145	3.1	0	80	92	99	23	1
+DataDog	DDOG	0.04	135	2.1	30	5800	NY USA	Monitoring	Observability AI	0.4	25.6	67.8	0	199	66	1.52	B	89	2.1	0	40	68	202	19	1
+ServiceNow	NOW	0.17	867	10.9	50	24000	CA USA	Software	Enterprise AI	1.8	23.1	58.4	0	1021	637	1.25	A	234	10.9	0	170	58	60	17	5
+MongoDB	MDB	0.04	289	1.7	25	4500	NY USA	Data	Database AI	0.3	22.5	-48.9	0	509	212	1.68	B	67	1.7	0	40		140	18	0
+UiPath	PATH	0.01	13.5	1.1	60	4180	NY USA	AI	RPA AI	0.4	-8.2	-15.6	0	27	10	1.95	B	198	1.1	0	10		170	36	1
+Splunk	SPLK	0.03	197	4.2	35	7500	CA USA	Analytics	Security AI	0.8	12.4	67.3	0	178	105	1.34	B	156	4.2	0	30	67	70	19	1
+Workday	WDAY	0.07	280	7.3	20	18000	CA USA	Software	HR AI	1.1	16.8	45.2	0	311	199	1.28	A	89	7.3	0	70	45	56	15	1
+Zscaler	ZS	0.02	189	1.9	45	6800	CA USA	Cybersecurity	Security AI	0.4	30.2	312.8	0	259	153	1.67	B	134	1.9	0	20	313	69	21	1
+Autodesk	ADSK	0.05	267	5.5	25	13500	CA USA	Software	Design AI	1.2	8.7	58.9	0	296	195	1.45	A	234	5.5	0	50	59	52	22	1
+Adobe	ADBE	0.22	487	21.5	40	29239	CA USA	Software	Creative AI	3.1	11.2	45.3	0	638	433	1.23	A	1567	21.5	0	220	45	47	14	9
+Intuit	INTU	0.18	647	16.3	30	19500	CA USA	Software	Financial AI	2.8	13.5	63.2	0.62	721	523	1.12	A	178	16.3	0	180	63	38	17	5
+IBM	IBM	0.17	185	62.8	35	288300	NY USA	Services	Enterprise AI	6.2	0.4	24.1	4.63	199	157	1.15	A	8934	22.1	0	170	24	27	10	22
+SAP	SAP	0.21	174	35.9	25	112000	Walldorf Germany	Software	ERP AI	5.8	8.9	28.4	1.15	188	143	1.08	A	1234	35.9	0	210	28	31	16	9
+ASML	ASML	0.32	789	28.3	20	42000	Veldhoven Netherlands	Semiconductors	Chip Manufacturing	3.1	8.7	38.2	0.95	1110	597	1.34	A	567	0	95	320	38	86	11	6
+Marvell Technology	MRVL	0.06	70	5.9	50	7000	DE USA	Semiconductors	Data Infrastructure	1.4	7.8	67.9	0.06	87	42	1.78	B	345	0	0	60	68	107	24	3
+Micron Technology	MU	0.13	118	30.8	35	48000	ID USA	Elecontrics	AI Memory	8.9	62.8	14.2	0.37	157	71	1.67	B	1234	0	0	130	14	121	29	11
+Applied Materials	AMAT	0.15	153	26.5	40	36000	CA USA	Semiconductors	AI Manufacturing	3.4	5.2	17.8	0.78	197	114	1.45	B	2345	0	0	150	18	73	13	11
+Lam Research	LRCX	0.09	632	15.9	45	17500	CA USA	Semiconductors	Memory Manufacturing	2.1	20.1	23.4	0.96	1067	523	1.56	B	567	0	0	90	23	104	13	7
+KLA Corporation	KLAC	0.06	429	10.1	40	14000	CA USA	Semiconductors	Process Control	1.8	28.3	24.7	1.05	587	297	1.67	B	234	0	0	60	25	98	18	4
+Synopsys	SNPS	0.08	523	6.2	60	19336	CA USA	Software	AI Design Tools	1.2	12.8	58.9	0	629	472	1.23	A	445	6.2	0	80	59	33	19	4
+Cadence Design	CDNS	0.07	267	4.1	55	9800	CA USA	Software	AI Chip Design	0.9	14.2	67.8	0	315	223	1.34	A	334	4.1	0	70	68	41	22	2
+Arm Holdings	ARM	0.15	145	3.2	70	7500	Cambridge UK	Semiconductors	AI Processors	1.1	39.2	89.4	0	164	86	1.89	B	1567	0	0	150	89	91	34	2
+Qualcomm	QCOM	0.21	189	38.9	30	50000	CA USA	Elecontrics	Edge AI	8.2	18.7	18.2	1.84	230	169	1.52	B	3456	0	0	210	18	36	21	12
+MediaTek	2454.TW	0.07	67	18.9	40	27000	Hsinchu Taiwan	Elecontrics	AI Mobile	3.2	31.8	15.6	2.98	89	45	1.67	B	1234	0	0	70	16	98	17	8
+Mobileye	MBLY	0.01	11.5	1.9	90	3100	Jerusalem Israel	Automotive	Self-Driving AI	0.6	-48.2	-23.4	0	28	8	2.15	B	567	0	0	10		250	32	2
+C3.ai	AI	0.003	28	0.3	95	2100	CA USA	AI	AI Platform	0.2	17.8	-45.6	0	67	14	2.89	C	89	0.3	0	3		379	67	0
+SoundHound AI	SOUN	0.002	4.8	0.08	98	450	CA USA	AI	Conversational AI	0.05	73.2	-12.4	0	10.5	1.2	3.45	C	234	0.08	0	2		775	63	0
+BigBear.ai	BBAI	0.0004	2.1	0.15	85	650	MD USA	AI	Defense AI	0.03	89.5	-8.9	0	15.2	1.8	2.67	C	45	0.15	0	0.4		744	20	0
+Veritone	VERI	0.0002	1.9	0.12	80	520	CA USA	Software	Media AI	0.02	-23.4	-67.8	0	12.8	1.5	2.34	C	67	0.12	0	0.2		753	17	0
